@@ -13,7 +13,9 @@ Integrantes:Armando Nuñez Perez
 	1.1 - Nombre: El centro del laberinto.
 
 	1.2 - Descripcion: juego de aventuras, de aspecto retro, basado en la estética pixel.
-	Combina retos intelectuales, puebas de destreza y memoria y otras habilidades, enlazadas entre si por las tipicas pantallas de plataforma, que nos dirigen atravez del juego hacia nuestro objetivo final y en loas que conseguimos objetos que nos facilitarán la aventura. Juega con los sonidos,  la memoria, la lógica o la orientación. 
+	Combina retos intelectuales, puebas de destreza y memoria y otras habilidades, enlazadas entre si por las tipicas pantallas de
+	plataforma, que nos dirigen atravez del juego hacia nuestro objetivo final y en loas que conseguimos objetos que nos facilitarán
+	la aventura. Juega con los sonidos,  la memoria, la lógica o la orientación. 
 	
 	1.3 - Objetivo: conseguir el maximo de objetos posibles para poder pasar con mayor eficacia las pruebas; conseguir las tres 
 	piezas vitales para poder resolver el enigma que abre la última puerta del laberinto.
