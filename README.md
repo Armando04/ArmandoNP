@@ -1,4 +1,4 @@
-# ArmandoNP
+# ArmandoNP  creacion
 Integrantes:Armando Nuñez Perez
 	
 	-Animacion: 7
